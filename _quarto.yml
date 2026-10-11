@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  description: ""
-  site-url: https://blog.ctfgo.net # you must change this appropriately for RSS feeds to work properly
-  title: "CTFで学ぶ - blog"
+  description: "nikodehyakuenのblog: 日常で思ったこと、気になったことをブログにしていきます。"
+  site-url: https://blog.ctfdemanabu.com # you must change this appropriately for RSS feeds to work properly
+  title: "nikodehyakuenのblog"
   navbar:
     right:
       - text: "Home"
-        href: https://ctfgo.net
+        href: https://ctfdemanabu.com
       - about.qmd
       - icon: github
         href: https://github.com/suikamin
