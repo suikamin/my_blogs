@@ -1,19 +1,16 @@
 ---
 title: "About"
-image: profile.jpg
+image: auther_icon.jpg
 about:
   template: jolla
   links:
     - icon: bluesky
       text: Bluesky
-      href: https://bsky.app/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://bsky.app/profile/nikodehyakuen.bsky.social
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/suikamin
 
 ---
-
-About this blog
+nikodehyakuenです。\
+日常で思ったこと、気になったことをブログにしていきます。

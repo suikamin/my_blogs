@@ -2,22 +2,22 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
+  description: ""
   site-url: https://blog.ctfgo.net # you must change this appropriately for RSS feeds to work properly
-  title: "my_blogs"
+  title: "CTFで学ぶ - blog"
   navbar:
     right:
+      - text: "Home"
+        href: https://ctfgo.net
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/suikamin
       - icon: bluesky
         href: https://bsky.app/
+      
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-
-
-
