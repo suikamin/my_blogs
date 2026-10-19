@@ -5,8 +5,6 @@ date: "2026-10-11"
 categories: [news]
 ---
 
-![](auther_icon.jpg){width=65% fig-align="center"}
-
 どうも。nikodehyakuenです。
 思ったこと、気になったことを適当にブログにしていきます。
 
