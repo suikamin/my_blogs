@@ -2,7 +2,7 @@
 title: "モダンWebシステムアーキテクチャ完全解説"
 subtitle: "物理サーバー・OSからLAMP、Nginx、レンダラー、CSR/SSR/SSG、API、DB、Docker、Cloudflareエッジまで"
 author: "nikodehyakuen , GEMINI 4 Argon"
-date: today
+date: "2026-10-20"
 lang: ja
 categories: [explanation]
 ---
